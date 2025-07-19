@@ -7,5 +7,5 @@ services:
     envVars:
       - key: PORT
         value: 3000
-    plan: free
+    plan: premium
     healthCheckPath: /
